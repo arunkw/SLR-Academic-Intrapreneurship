@@ -1,0 +1,44 @@
+% 1. University-Industry OI Framework
+@article{web1,
+  title = {Using a Systematic Literature Review to Build a Framework for University-Industry Open Innovation},
+  url = {https://www.sciencedirect.com/science/article/pii/S1877050921001289},
+  year = {2021}
+}
+
+% 2. PSALSAR SLR Method
+@article{web2,
+  title = {Method for Conducting Systematic Literature Review and Meta-Analysis},
+  url = {https://www.sciencedirect.com/science/article/pii/S221501611930353X},
+  year = {2019}
+}
+
+% 3. Intrapreneurship in Engineering
+@article{web3,
+  title = {Intrapreneurship Concepts for Engineers: A Systematic Review},
+  url = {https://innovation-entrepreneurship.springeropen.com/articles/10.1186/s13731-020-00119-3},
+  year = {2020},
+  doi = {10.1186/s13731-020-00119-3}
+}
+
+% 4. Academic Entrepreneurship Ecosystems
+@article{web5,
+  title = {Academic Entrepreneurship Ecosystems: Systematic Literature Review and Future Directions},
+  url = {https://link.springer.com/article/10.1007/s13132-024-01819-x},
+  year = {2024},
+  doi = {10.1007/s13132-024-01819-x}
+}
+
+% 5. Social Entrepreneurial Intentions
+@article{web7,
+  title = {Influence of University Environment on Social Entrepreneurial Intention},
+  url = {https://innovation-entrepreneurship.springeropen.com/articles/10.1186/s13731-020-0116-9},
+  year = {2020},
+  doi = {10.1186/s13731-020-0116-9}
+}
+
+% 6. Academic Entrepreneurship Review
+@article{web6,
+  title = {Systematic Literature Review on Academic Entrepreneurship},
+  url = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4497852},
+  year = {2020}
+}

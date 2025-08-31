@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CKBC Semi-Finals//EN
+BEGIN:VEVENT
+UID:1@chetana-institute.org
+DTSTAMP:20250731T000000Z
+SUMMARY:CKBC Semi-Finals - Entertainment Sector
+DTSTART:20250731T093000
+DTEND:20250731T095000
+LOCATION:Chetana Institute of Management and Research
+DESCRIPTION:Sector: Entertainment\nTiming: 9:30 - 9:50
+END:VEVENT
+BEGIN:VEVENT
+UID:2@chetana-institute.org
+DTSTAMP:20250731T000000Z
+SUMMARY:CKBC Semi-Finals - E-commerce & App-based Aggregator
+DTSTART:20250731T095500
+DTEND:20250731T101500
+LOCATION:Chetana Institute of Management and Research
+DESCRIPTION:Sector: E-commerce & App-based Aggregator\nTiming: 9:55 - 10:15
+END:VEVENT
+BEGIN:VEVENT
+UID:3@chetana-institute.org
+DTSTAMP:20250731T000000Z
+SUMMARY:CKBC Semi-Finals - Aerospace and Defence
+DTSTART:20250731T102000
+DTEND:20250731T104000
+LOCATION:Chetana Institute of Management and Research
+DESCRIPTION:Sector: Aerospace and Defence\nTiming: 10:20 - 10:40
+END:VEVENT
+BEGIN:VEVENT
+UID:4@chetana-institute.org
+DTSTAMP:20250731T000000Z
+SUMMARY:CKBC Semi-Finals - Bio Break
+DTSTART:20250731T104000
+DTEND:20250731T105000
+LOCATION:Chetana Institute of Management and Research
+DESCRIPTION:Bio Break\nTiming: 10:40 - 10:50
+END:VEVENT
+BEGIN:VEVENT
+UID:5@chetana-institute.org
+DTSTAMP:20250731T000000Z
+SUMMARY:CKBC Semi-Finals - Tyres Sector
+DTSTART:20250731T105000
+DTEND:20250731T111000
+LOCATION:Chetana Institute of Management and Research
+DESCRIPTION:Sector: Tyres\nTiming: 10:50 - 11:10
+END:VEVENT
+BEGIN:VEVENT
+UID:6@chetana-institute.org
+DTSTAMP:20250731T000000Z
+SUMMARY:CKBC Semi-Finals - Electronics Sector
+DTSTART:20250731T111500
+DTEND:20250731T113500
+LOCATION:Chetana Institute of Management and Research
+DESCRIPTION:Sector: Electronics\nTiming: 11:15 - 11:35
+END:VEVENT
+BEGIN:VEVENT
+UID:7@chetana-institute.org
+DTSTAMP:20250731T000000Z
+SUMMARY:CKBC Semi-Finals - Stock Commodity Brokers
+DTSTART:20250731T114000
+DTEND:20250731T120000
+LOCATION:Chetana Institute of Management and Research
+DESCRIPTION:Sector: Stock Commodity Brokers\nTiming: 11:40 - 12:00
+END:VEVENT
+BEGIN:VEVENT
+UID:8@chetana-institute.org
+DTSTAMP:20250731T000000Z
+SUMMARY:CKBC Semi-Finals - Lunch Break
+DTSTART:20250731T120000
+DTEND:20250731T130000
+LOCATION:Chetana Institute of Management and Research
+DESCRIPTION:Lunch Break\nTiming: 12:00 - 13:00
+END:VEVENT
+BEGIN:VEVENT
+UID:9@chetana-institute.org
+DTSTAMP:20250731T000000Z
+SUMMARY:CKBC Semi-Finals - Insurance Sector
+DTSTART:20250731T130500
+DTEND:20250731T132500
+LOCATION:Chetana Institute of Management and Research
+DESCRIPTION:Sector: Insurance\nTiming: 1:05 - 1:25
+END:VEVENT
+BEGIN:VEVENT
+UID:10@chetana-institute.org
+DTSTAMP:20250731T000000Z
+SUMMARY:CKBC Semi-Finals - Real Estate Sector
+DTSTART:20250731T133000
+DTEND:20250731T135000
+LOCATION:Chetana Institute of Management and Research
+DESCRIPTION:Sector: Real Estate\nTiming: 1:30 - 1:50
+END:VEVENT
+BEGIN:VEVENT
+UID:11@chetana-institute.org
+DTSTAMP:20250731T000000Z
+SUMMARY:CKBC Semi-Finals - Renewable Energy Sector
+DTSTART:20250731T135500
+DTEND:20250731T141500
+LOCATION:Chetana Institute of Management and Research
+DESCRIPTION:Sector: Renewable Energy\nTiming: 1:55 - 2:15
+END:VEVENT
+BEGIN:VEVENT
+UID:12@chetana-institute.org
+DTSTAMP:20250731T000000Z
+SUMMARY:CKBC Semi-Finals - Credit Rating Agencies
+DTSTART:20250731T142000
+DTEND:20250731T144000
+LOCATION:Chetana Institute of Management and Research
+DESCRIPTION:Sector: Credit Rating Agencies\nTiming: 2:20 - 2:40
+END:VEVENT
+END:VCALENDAR

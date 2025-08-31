@@ -1,0 +1,296 @@
+﻿TY  - JOUR
+AB  - Information on the size of academic search engines and bibliographic
+databases (ASEBDs) is often outdated or entirely unavailable. Hence,
+it is difficult to assess the scope of specific databases, such as
+Google Scholar. While scientometric studies have estimated ASEBD sizes
+before, the methods employed were able to compare only a few
+databases. Consequently, there is no up-to-date comparative
+information on the sizes of popular ASEBDs. This study aims to fill
+this blind spot by providing a comparative picture of 12 of the most
+commonly used ASEBDs. In doing so, we build on and refine previous
+scientometric research by counting query hit data as an indicator of
+the number of accessible records. Iterative query optimization makes
+it possible to identify a maximum number of hits for most ASEBDs. The
+results were validated in terms of their capacity to assess database
+size by comparing them with official information on database sizes or
+previous scientometric studies. The queries used here are replicable,
+so size information can be updated quickly. The findings provide
+first-time size estimates of ProQuest and EbscoHost and indicate that
+Google Scholar's size might have been underestimated so far by more
+than 50%. By our estimation Google Scholar, with 389 million records,
+is currently the most comprehensive academic search engine.
+AU  - Gusenbauer, Michael
+DA  - 2018/11/10/
+PY  - 2018
+DB  - Crossref
+DO  - 10.1007/s11192-018-2958-5
+ID  - temp_id_211600943208
+IS  - 1
+J2  - Scientometrics
+LA  - en
+SN  - 0138-9130
+SP  - 177-214
+T2  - Scientometrics
+TI  - Google Scholar to overshadow them all? Comparing the sizes of 12
+academic search engines and bibliographic databases
+UR  - http://dx.doi.org/10.1007/s11192-018-2958-5
+VL  - 118
+ER  - 
+TY  - JOUR
+AB  - The purpose of this article is to map the field of Academic
+Entrepreneurship focusing on the search for models that evaluate the
+viability of intellectual property as a product. The study was based
+on articles retrieved from the Web of Science database covering the
+period from 1988 to 2020, where the metadata data analysis was carried
+out using the RStudio software, bibliometrix package, and the web
+interface Biblioshiny, and a systematic review was conducted following
+the PRISMA protocol, Extension for Scoping Reviews. The findings
+revealed that the main objectives of studies on academic
+entrepreneurship are related to the analysis of human (training,
+leadership, and motivation), physical and management resources, as
+they are pointed out as the most necessary incentives to improve
+universities AE. Therefore, it was concluded that most models on AE
+are for the evaluation of the development of entrepreneurship in the
+academic environment and there is a research gap to develop models
+aiming at the commercialization of intellectual property.
+AU  - Domingues, Marco Antonio
+AU  - Santana, Hortência E Pereira
+AU  - Ruzene, Denise Santos
+AU  - Silva, Daniel Pereira
+DA  - 2022/9/9/
+PY  - 2022
+DB  - Crossref
+DO  - 10.11114/ijsss.v10i5.5647
+ID  - temp_id_844205943807
+IS  - 5
+J2  - IJSSS
+SN  - 2324-8041
+SP  - 33
+T2  - International Journal of Social Science Studies
+TI  - Systematic Literature Review on Academic Entrepreneurship by
+Bibliometric Metadata Analysis
+UR  - http://dx.doi.org/10.11114/ijsss.v10i5.5647
+VL  - 10
+ER  - 
+TY  - JOUR
+AB  - The search strategy used in systematic reviews is an important
+consideration, as the comprehensiveness and representativeness of
+studies identified influences the quality of conclusions derived from
+the review. Despite the importance of this step, little in the way of
+best practice recommendations exist. In an effort to inform future
+reviews, we report the results of two studies. In Study 1, we outline
+a series of recommendations for designing comprehensive systematic
+literature searches. We review the search strategies used in 152
+recent systematic reviews published in top applied psychology
+(including organizational psychology, counseling psychology, and
+management) journals and evaluate them against these criteria. In
+Study 2, we build on the findings of our review, carrying out an
+original meta-analysis, which we use as an opportunity to empirically
+demonstrate effects of database selection and inclusion of a
+complementary search protocol on search outcomes. Our results suggest
+that database selection could have a large effect on conclusions from
+reviews. Implications and recommendations for carrying out
+comprehensive literature reviews are described.
+AU  - Harari, Michael B.
+AU  - Parola, Heather R.
+AU  - Hartwell, Christopher J.
+AU  - Riegelman, Amy
+DA  - 2020/4//
+PY  - 2020
+DB  - Crossref
+DO  - 10.1016/j.jvb.2020.103377
+ID  - temp_id_720512862452
+J2  - Journal of Vocational Behavior
+LA  - en
+SN  - 0001-8791
+SP  - 103377
+T2  - Journal of Vocational Behavior
+TI  - Literature searches in systematic reviews and meta-analyses: A review,
+evaluation, and recommendations
+UR  - http://dx.doi.org/10.1016/j.jvb.2020.103377
+VL  - 118
+ER  - 
+TY  - JOUR
+AB  - Abstract Systematic literature reviews in educational research have
+become a popular research method. A key point hereby is the choice of
+bibliographic databases to reach a maximum probability of finding all
+potentially relevant literature that deals with the research question
+analyzed in a systematic literature review. Guidelines and handbooks
+on review recommend proper databases and information sources for
+education, along with specific search strategies. However, in many
+disciplines, among them educational research, there is a lack of
+evidence on the relevance of databases that need to be considered to
+find relevant literature and lessen the risk of missing relevant
+publications. Educational research is an interdisciplinary field and
+has no core database. Instead, the field is covered by multiple
+disciplinary and multidisciplinary information sources that have
+either a national or international focus. In this article, we discuss
+the relevance of seven databases in systematic literature reviews in
+education, based on results of an empirical data analysis of three
+recently published reviews. To evaluate the relevance of a database,
+the relevant literature of those reviews served as the gold standard.
+Results indicate that discipline-specific databases outperform
+international multidisciplinary sources, and a combination of
+discipline-specific international and national sources is most
+efficient in finding a high proportion of relevant literature. The
+article discusses the relevance of the databases in relation to their
+coverage of relevant literature, while considering practical
+implications for researchers performing a systematic literature
+search. We, thus, present evidence for proper database choices for
+educational and discipline-related systematic literature reviews.
+AU  - Heck, Tamara
+AU  - Keller, Carolin
+AU  - Rittberger, Marc
+DA  - 2023/5/24/
+PY  - 2023
+DB  - Crossref
+DO  - 10.1007/s00799-023-00364-3
+ID  - temp_id_014543056527
+IS  - 2
+J2  - Int J Digit Libr
+LA  - en
+SN  - 1432-5012
+SP  - 365-376
+T2  - International Journal on Digital Libraries
+TI  - Coverage and similarity of bibliographic databases to find most
+relevant literature for systematic reviews in education
+UR  - http://dx.doi.org/10.1007/s00799-023-00364-3
+VL  - 25
+ER  - 
+TY  - JOUR
+AB  - This paper introduces a novel scientometrics method and applies it to
+estimate the subject coverages of many of the popular English-focused
+bibliographic databases in academia. The method uses query results as
+a common denominator to compare a wide variety of search engines,
+repositories, digital libraries, and other bibliographic databases.
+The method extends existing sampling-based approaches that analyze
+smaller sets of database coverages. The findings show the relative and
+absolute subject coverages of 56 databases-information that has often
+not been available before. Knowing the databases'
+AU  - Gusenbauer, Michael
+DA  - 2022/5//
+PY  - 2022
+DB  - Crossref
+DO  - 10.1007/s11192-022-04289-7
+ID  - temp_id_469036086046
+IS  - 5
+J2  - Scientometrics
+LA  - en
+SN  - 0138-9130
+SP  - 2683-2745
+T2  - Scientometrics
+TI  - Search where you will find most: Comparing the disciplinary coverage
+of 56 bibliographic databases
+UR  - http://dx.doi.org/10.1007/s11192-022-04289-7
+VL  - 127
+ER  - 
+TY  - JOUR
+AB  - Abstract Research on the entrepreneurship ecosystem, based on
+different data and scales, limits the acceptance of a single
+definition. This conceptual limitation and the still recent research
+and higher education institutions have come to be seen as ecosystems
+associated with entrepreneurship. The aim of this study is to
+contribute to the field of knowledge, identify current and emerging
+thematic areas and trends and reveal the scientific roots of research
+on entrepreneurial ecosystems and their relationship with higher
+education institutions. A bibliometric analysis was developed to
+analyse a final sample of 110 articles published between 2011 and
+2022. In order to develop the analysis, Bibliometrix R-Tool was used
+and the metadata of two databases (Web of Science and Scopus) was
+retrieved and merged. The software creates a reference co-citation’s
+map, which allowed emphasize the state of the art and indicate three
+thematic clusters: (i) the importance of the higher education context
+for the entrepreneurial ecosystem, (ii) the evolution and challenges
+of entrepreneurship education and (iii) academic entrepreneurship
+ecosystems. The paper concludes by suggesting future research focused
+on the importance of building an integrated approach to
+entrepreneurial ecosystems and higher education institutions on a
+context regional scale.
+AU  - Correia, Maria Patrocínia
+AU  - Marques, Carla Susana
+AU  - Silva, Rui
+AU  - Ramadani, Veland
+DA  - 2024/2/16/
+PY  - 2024
+DB  - Crossref
+DO  - 10.1007/s13132-024-01819-x
+ID  - temp_id_767831753837
+IS  - 4
+J2  - J Knowl Econ
+LA  - en
+SN  - 1868-7873
+SP  - 17498-17528
+T2  - Journal of the Knowledge Economy
+TI  - Academic Entrepreneurship Ecosystems: Systematic Literature Review and
+Future Research Directions
+UR  - http://dx.doi.org/10.1007/s13132-024-01819-x
+VL  - 15
+ER  - 
+TY  - JOUR
+AB  - Academic Search Engines: intends to run through the current panorama
+of the academic search engines through a quantitative approach that
+analyses the reliability and consistence of these services. The
+objective is to describe the main characteristics of these engines, to
+highlight their advantages and drawbacks, and to discuss the
+implications of these new products in the future of scientific
+communication and their impact on the research measurement and
+evaluation. In short, Academic Search Engines presents a summary view
+of the new challenges that the Web set to the scientific activity
+through the most novel and innovative searching services available on
+the Web. * This is the first approach to analyze search engines
+exclusively addressed to the research community in an integrative
+handbook. The novelty, expectation and usefulness of many of these
+services justify their analysis.* This book is not merely a
+description of the web functionalities of these services; it is a
+scientific review of the most outstanding characteristics of each
+platform, discussing their significance to the scholarly communication
+and research evaluation.* This book introduces an original methodology
+based on a quantitative analysis of the covered data through the
+extensive use of crawlers and harvesters which allow going in depth
+into how these engines are working. Beside of this, a detailed
+descriptive review of their functionalities and a critical discussion
+about their use for scientific community is displayed.
+AU  - Ortega, J.
+DA  - 2014///
+PY  - 2014
+ID  - temp_id_946016903070
+TI  - Academic search engines : a quantitative outlook
+ER  - 
+TY  - CONF
+AB  - Systematic literature reviews and meta-analyses have gained importance
+due to the increasing rates of academic publications and the need to
+evaluate and integrate findings. The systematic literature search
+using databases and platforms is the essential first step in the
+process of conducting research syntheses. We investigated the
+replicability of literature searches conducted within two databases
+(ERIC, PsycINFO) and two search platforms (ProQuest, Web of Science).
+Fifteen researchers from different institutions performed identical
+searches guided by a manual. We found that ERIC searches were
+replicable, but the type of quotation marks used in the search string
+mattered. Despite PsycINFO being frequently reported in published
+reviews and meta-analyses, none of the researchers had direct access,
+but used alternative platforms (EBSCOhost or Ovid) to access PsycINFO.
+Using a specific platform (either EBSCOhost, Ovid, or ProQuest) to
+indirectly search the databases, PsycINFO and/or ERIC provided
+identical search results across institutions. However, the indirect
+search via platforms mostly delivered different numbers of hits
+compared to the direct search in the databases. Additionally, the
+searches via platforms identified publications that partially differed
+from those found by direct searches in the databases. Web of Science
+searches showed a low degree of replicability; results differed
+between institutions with regard to the number of hits and in the
+composition of the identified publications. To increase replicability,
+we suggest expanding reporting guidelines like PRISMA-S to require
+researchers to publish their full initial search hits.
+C3  - Atti del 5° Convegno sulle didattiche disciplinari
+DA  - 2022/12/1/
+C2  - 2022
+DB  - Crossref
+DO  - 10.33683/dida.22.05.83
+ID  - temp_id_858175675344
+PB  - Dipartimento formazione e apprendimento – SUPSI, Svizzera /
+swissuniversities, Svizzera
+SP  - 510-516
+TI  - How systematic are systematic literature searches?
+UR  - http://dx.doi.org/10.33683/dida.22.05.83
+ER  - 

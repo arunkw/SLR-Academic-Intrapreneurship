@@ -1,0 +1,409 @@
+@article{sahu2023academic,
+  title={Academic's Motivation for Entrepreneurial Engagement: A Systematic Literature Review},
+  author={Sahu, Dipan Kumar and Pawar, Sucheta and Gaur, Prerna and Jain, Sudhir K.},
+  journal={Journal of Operations and Strategic Planning},
+  year={2023},
+  month={nov},
+  day={19},
+  note={Restricted access}
+}
+
+@article{sahu2024entrepreneurial,
+  title={Entrepreneurial Engagement of Faculty in Higher Educational Institutions: A Review of Literature 2011--2023},
+  author={Sahu, Dipan Kumar and Pawar, Sucheta and Gaur, Prerna and Jain, Sudhir K.},
+  journal={Paradigm},
+  year={2024},
+  month={sep},
+  day={30},
+  note={Restricted access}
+}
+
+@article{debock2024league,
+  title={From league champion to community champion: Institutional entrepreneurship in Belgian soccer},
+  author={De Bock, Thomas and Scheerder, Jeroen and Theeboom, Marc and Schyvinck, Cleo and De Clerck, Tom and Willem, Annick},
+  journal={International Review for the Sociology of Sport},
+  year={2024},
+  month={sep},
+  day={30},
+  note={Restricted access}
+}
+
+@article{hayter2015social,
+  title={Social Networks and the Success of University Spin-offs: Toward an Agenda for Regional Growth},
+  author={Hayter, Christopher S.},
+  journal={Economic Development Quarterly},
+  year={2015},
+  month={jan},
+  day={21},
+  note={Restricted access}
+}
+
+@article{markuerkiaga2014success,
+  title={Success Factors for Managing an Entrepreneurial University: Developing an Integrative Framework},
+  author={Markuerkiaga, Leire and Errasti, Nekane and Igartua, Juan Ignacio},
+  journal={Industry and Higher Education},
+  year={2014},
+  month={apr},
+  day={29},
+  note={Restricted access}
+}
+
+@article{westley2010five,
+  title={Five Configurations for Scaling Up Social Innovation: Case Examples of Nonprofit Organizations From Canada},
+  author={Westley, Frances and Antadze, Nino and Riddell, Darcy J. and Robinson, Kirsten and Geobey, Sean},
+  journal={The Journal of Applied Behavioral Science},
+  year={2010},
+  month={mar},
+  day={1},
+  note={Restricted access}
+}
+
+@article{pacheco2010coevolution,
+  title={The Coevolution of Institutional Entrepreneurship: A Tale of Two Theories},
+  author={Pacheco, Desir{\'e}e F. and York, Jeffrey G. and Dean, Thomas J. and Sarasvathy, Saras D.},
+  journal={Journal of Management},
+  year={2010},
+  month={mar},
+  day={1},
+  note={Restricted access}
+}
+
+@article{saebi2022social,
+  title={Social Entrepreneurship Research: Past Achievements and Future Promises},
+  author={Saebi, Tina and Foss, Nicolai J. and Linder, Stefan},
+  journal={Journal of Management},
+  year={2022},
+  month={aug},
+  day={1},
+  note={Restricted access}
+}
+
+@article{blignaut2022conceptual,
+  title={A conceptual competencies-based framework to enhance the innovation capacity of fourth industrial revolution entrepreneurs},
+  author={Blignaut (Taljaard), Amorie and Botha, Melodi},
+  journal={The International Journal of Entrepreneurship and Innovation},
+  year={2022},
+  month={aug},
+  day={1},
+  note={Restricted access}
+}
+
+@article{terjesen2013comparative,
+  title={Comparative International Entrepreneurship: A Review and Research Agenda},
+  author={Terjesen, Siri and Hessels, Jolanda and Li, Dan},
+  journal={Journal of Management},
+  year={2013},
+  month={may},
+  day={1},
+  note={Restricted access}
+}
+
+@article{du2022bibliometric,
+  title={Bibliometric Overview of Organizational Legitimacy Research},
+  author={Du, Xiaojun and Feng, Fei and Lv, Wei},
+  journal={Sage Open},
+  year={2022},
+  month={may},
+  day={24},
+  note={Open Access}
+}
+
+@article{hayter2013harnessing,
+  title={Harnessing University Entrepreneurship for Economic Growth: Factors of Success Among University Spin-offs},
+  author={Hayter, Christopher S.},
+  journal={Economic Development Quarterly},
+  year={2013},
+  month={nov},
+  day={14},
+  note={Restricted access}
+}
+
+@article{yamamoto2023different,
+  title={Different scenarios for accounting reform in non-Anglophone contexts: The case of Japanese local governments since the 1990s},
+  author={Yamamoto, Kiyoshi and Noguchi, Masayoshi},
+  journal={Accounting History},
+  year={2023},
+  month={sep},
+  day={26},
+  note={Open Access}
+}
+
+@article{ajer2023integrating,
+  title={Integrating Digital Innovation Mechanisms in Digital Infrastructures: The Case of Digital Remote Care},
+  author={Ajer, Anne KS and Øvrelid, Egil},
+  journal={Health Services Insights},
+  year={2023},
+  month={jun},
+  day={22},
+  note={Open Access}
+}
+
+@article{jackwerth2015resources,
+  title={The Resources of Institutional Entrepreneurs in Different Structural Settings},
+  author={Jackwerth-Rice, Deborah and Koehrsen, Jens and Mattes, Jannika},
+  journal={Organization Theory},
+  year={2015},
+  month={jul},
+  day={2},
+  note={Restricted access}
+}
+
+@article{randles2019theorising,
+  title={Theorising the Normative Business Model},
+  author={Randles, Sally and Laasch, Oliver},
+  journal={Organization \& Environment},
+  year={2019},
+  month={dec},
+  day={23},
+  note={Restricted access}
+}
+
+@article{marsan2016entrepreneurial,
+  title={Entrepreneurial actions and the legitimation of free/open source software services},
+  author={Marsan, Josianne and Carillo, Kevin Daniel Andr{\'e} and Negoita, Bogdan},
+  journal={Journal of Information Technology},
+  year={2016},
+  month={mar},
+  day={23},
+  note={Restricted access}
+}
+
+@article{boyd2021ownership,
+  title={Ownership of Corporations: A Review, Synthesis, and Research Agenda},
+  author={Boyd, Brian K. and Solarino, Angelo M.},
+  journal={Journal of Management},
+  year={2021},
+  month={dec},
+  day={17},
+  note={Restricted access}
+}
+
+@article{muffatto2011role,
+  title={The role of third mission orientation and motivational characteristics in young scientists' entrepreneurial intention},
+  author={Muffatto, Moreno and Raza, Ali and Ferrati, Francesco and Sheriff, Michael},
+  journal={Industry and Higher Education},
+  year={2011},
+  month={mar},
+  day={14},
+  note={Restricted access}
+}
+
+@article{thornton2011socio,
+  title={Socio-cultural factors and entrepreneurial activity: An overview},
+  author={Thornton, Patricia H. and Ribeiro-Soriano, Domingo and Urbano, David},
+  journal={International Small Business Journal},
+  year={2011},
+  month={mar},
+  day={14},
+  note={Restricted access}
+}
+
+@article{ashta2014introduction,
+  title={An Introduction to Slow Money and its Gandhian Roots},
+  author={Ashta, Arvind},
+  journal={Journal of Human Values},
+  year={2014},
+  month={sep},
+  day={15},
+  note={Available access}
+}
+
+@article{salinac2020institutional,
+  title={Institutional entrepreneurs driving change: The case of gender equality in the Australian construction industry},
+  author={Salignac, Fanny and Galea, Natalie and Powell, Abigail},
+  journal={Australian Journal of Management},
+  year={2020},
+  month={jul},
+  day={9},
+  note={Restricted access}
+}
+
+@article{javadian2020qualitative,
+  title={Qualitative Research in Entrepreneurship Studies: A State-of-Science},
+  author={Javadian, Golshan and Dobratz, Crystal and Gupta, Alka and Gupta, Vishal K. and Martin, Jeffrey A.},
+  journal={The Journal of Entrepreneurship},
+  year={2020},
+  month={jul},
+  day={7},
+  note={Restricted access}
+}
+
+@article{kinney2021making,
+  title={Making the Grade during Pandemic: Early-stage and Late-stage Provisional Institutions},
+  author={Kinney, Alexander B. and Rowland, Nicholas J.},
+  journal={Sociological Perspectives},
+  year={2021},
+  month={jul},
+  day={7},
+  note={Restricted access}
+}
+
+@article{kemper2019socio,
+  title={Socio-Technical Transitions and Institutional Change: Addressing Obesity through Macro-Social Marketing},
+  author={Kemper, Joya A. and Ballar, Paul W.},
+  journal={Journal of Macromarketing},
+  year={2019},
+  month={nov},
+  day={13},
+  note={Restricted access}
+}
+
+@article{pedeliento2019mother,
+  title={From Mother's Ruin to Ginaissance: Emergence, settlement and resettlement of the gin category},
+  author={Pedeliento, Giuseppe and Andreini, Daniela and Dalli, Daniele},
+  journal={Organization Studies},
+  year={2019},
+  month={nov},
+  day={13},
+  note={Restricted access}
+}
+
+@article{su2017beyond,
+  title={Beyond Red Tape and Fools: Institutional Theory in Entrepreneurship Research, 1992--2014},
+  author={Su, Jing and Zhai, Qinghua and Karlsson, Tomas},
+  journal={Entrepreneurship Theory and Practice},
+  year={2017},
+  month={jul},
+  day={1},
+  note={Restricted access}
+}
+
+@article{vega2020antecedents,
+  title={Antecedents of Entrepreneurial Skills and Their Influence on the Entrepreneurial Intention of Academics},
+  author={Vega-G{\'o}mez, Francisco I. and Miranda Gonz{\'a}lez, Francisco J. and Chamorro Mera, Antonio and P{\'e}rez-Mayo, Jesus},
+  journal={Sage Open},
+  year={2020},
+  month={jun},
+  day={3},
+  note={Open Access}
+}
+
+@article{zietsma2010institutional,
+  title={Institutional Work in the Transformation of an Organizational Field: The Interplay of Boundary Work and Practice Work},
+  author={Zietsma, Charlene and Lawrence, Thomas B.},
+  journal={Administrative Science Quarterly},
+  year={2010},
+  month={jun},
+  day={1},
+  note={Restricted access}
+}
+
+@article{shepherd2020entrepreneurship,
+  title={Entrepreneurship responding to adversity: Equilibrating Adverse Events and Disequilibrating Persistent Adversity},
+  author={Shepherd, Dean A. and Williams, Trenton},
+  journal={Organization Theory},
+  year={2020},
+  month={oct},
+  day={19},
+  note={Open Access}
+}
+
+@article{prokop2021academic,
+  title={The Academic Spinoff Theory of the Firm},
+  author={Prokop, Daniel},
+  journal={The International Journal of Entrepreneurship and Innovation},
+  year={2021},
+  month={dec},
+  day={16},
+  note={Open Access}
+}
+
+@article{chen2018interorganizational,
+  title={Interorganizational Advocacy Among Nonprofit Organizations in Strategic Action Fields: Exogenous Shocks and Local Responses},
+  author={Chen, Katherine K.},
+  journal={Nonprofit and Voluntary Sector Quarterly},
+  year={2018},
+  month={jan},
+  day={17},
+  note={Restricted access}
+}
+
+@article{micelotta2017pathways,
+  title={Pathways of Institutional Change: An Integrative Review and Research Agenda},
+  author={Micelotta, Evelyn and Lounsbury, Michael and Greenwood, Royston},
+  journal={Journal of Management},
+  year={2017},
+  month={mar},
+  day={27},
+  note={Restricted access}
+}
+
+@article{liu2017tensions,
+  title={The Tensions of University--City Relations in the Knowledge Society},
+  author={Liu, Cui},
+  journal={Education and Urban Society},
+  year={2017},
+  month={sep},
+  day={6},
+  note={Restricted access}
+}
+
+@article{wang2019internal,
+  title={Internal Orientalization or Deorientalization? Disciplinary Conflicts and National Imaginations in China, 1912--1949},
+  author={Wang, Liping},
+  journal={Modern China},
+  year={2019},
+  month={jun},
+  day={26},
+  note={Restricted access}
+}
+
+@article{yi2019cross,
+  title={Cross-border Collaboration Strategies in Academic Entrepreneurship of New R\&D Institutions: Insights from Explorative Case Studies in China},
+  author={Yi, Gaofeng},
+  journal={Science, Technology and Society},
+  year={2019},
+  month={jul},
+  day={29},
+  note={Restricted access}
+}
+
+@article{leung2014unsettling,
+  title={Unsettling the Yin-Yang Harmony: An Analysis of Gender Inequalities in Academic Mobility among Chinese Scholars},
+  author={Leung, Maggi W.H.},
+  journal={Asian and Pacific Migration Journal},
+  year={2014},
+  month={jun},
+  day={1},
+  note={Restricted access}
+}
+
+@article{sarasini2014past,
+  title={Past, Present, or Future? Managers' Temporal Orientations and Corporate Climate Action in the Swedish Electricity Sector},
+  author={Sarasini, Steven and Jacob, Merle},
+  journal={Organization \& Environment},
+  year={2014},
+  month={aug},
+  day={18},
+  note={Restricted access}
+}
+
+@article{helfen2013negotiating,
+  title={Negotiating as Institutional Work: The Case of Labour Standards and International Framework Agreements},
+  author={Helfen, Markus and Sydow, J{\"o}rg},
+  journal={Organization Studies},
+  year={2013},
+  month={aug},
+  day={6},
+  note={Restricted access}
+}
+
+@article{harmeling2013when,
+  title={When Contingency is a Resource: Educating Entrepreneurs in the Balkans, the Bronx, and Beyond},
+  author={Harmeling, Susan S. and Sarasvathy, Saras D.},
+  journal={Entrepreneurship Theory and Practice},
+  year={2013},
+  month={jul},
+  day={1},
+  note={Restricted access}
+}
+
+@article{smith2015multiple,
+  title={Multiple temporalities of knowing in academic research},
+  author={Smith, Simon},
+  journal={Social Science Information},
+  year={2015},
+  month={feb},
+  day={16},
+  note={Restricted access}
+}
